@@ -92,8 +92,8 @@ header nav ul li a:hover {
   font-size: 45px;
   display: flex;
   justify-content: end;
-  text-align: right;
-  color: rgb(23, 112, 196);
+  text-align: center;
+  color: rgb(196, 164, 23);
 }
 
 .hero .message #message-text {
