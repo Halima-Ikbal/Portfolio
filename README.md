@@ -4,7 +4,7 @@ For this challenge I wrote the HTML and CSS to create a portfolio which will be 
 https://halima-ikbal.github.io/Portfolio/ 
 
 # Screenshot of Portfolio
-![portfolio image](assets/image/2022-05-14.png)
+![portfolio image](assets/image/2022-05-14%20(1).png) 
 
 
 # Build with 
