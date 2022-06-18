@@ -214,9 +214,14 @@ header nav ul li a:hover {
 }
 
 .project01 {
+  background-image: url("../image/2022-06-18.png");
+}
+.project02 {
   background-image: url("../image/Coming-Soon.jpg");
 }
-
+.project03 {
+  background-image: url("../image/Coming-Soon.jpg");
+}
 .project-label {
   /*background-color: var(--secondary);*/
   background-color: var(--secondary);
